@@ -10,3 +10,13 @@
 - 정적 배열과 동적 배열의 크기 구하는 방법   
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/2*
+
+### Day 2
+#### BACKJOON 1008번 : A/B
+
+**요약**
+- 부동소수점의 개념
+- 실수형 자료형
+- C++에서의 소수점 자리 표현
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/5*
