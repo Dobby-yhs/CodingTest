@@ -20,3 +20,14 @@
 - C++에서의 소수점 자리 표현
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/5*
+
+### Day 3
+#### BACKJOON 2438번, 2475번
+
+**요약**
+- 자료형 범위의 함정
+  - OS 환경별로 크기가 달라지는 long 자료형
+- 복잡함을 간단하게 만들어주는 for문
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/8*
+
