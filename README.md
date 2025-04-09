@@ -31,3 +31,12 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/8*
 
+### Day 4
+#### BACKJOON 2557번, 2439번, 2741번
+
+**요약**
+- scanf와 std::cin의 수행 시간 차이
+- std::endl과 \n의 수행 시간 차이
+- 버퍼와 플러
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/13*
