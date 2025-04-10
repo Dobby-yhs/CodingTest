@@ -22,7 +22,7 @@
 >  > *https://sunlight-dby.tistory.com/5*
 
 ### Day 3
-#### BACKJOON 2438번, 2475번
+#### BACKJOON 2420번, 2438번, 2475번
 
 **요약**
 - 자료형 범위의 함정
