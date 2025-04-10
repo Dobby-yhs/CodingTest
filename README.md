@@ -49,7 +49,7 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/14*
 
-### Day 5
+### Day 6
 #### BACKJOON 8393번, 9086번, 9498번
 
 **요약**
