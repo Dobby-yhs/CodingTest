@@ -48,3 +48,12 @@
 - isupper(), islower()
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/14*
+
+### Day 5
+#### BACKJOON 8393번, 9086번, 9498번
+
+**요약**
+- switch문
+- trunc() 함수
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/16*
