@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+/*
 // BAEKJOON 1264번 : 모음의 개수
 using namespace std;
 
@@ -36,7 +37,7 @@ int main() {
 
 	return 0;
 }
-
+*/
 
 /*
 // BAEKJOON 10807번 : 개수 세기
