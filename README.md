@@ -57,3 +57,11 @@
 - trunc() 함수
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/16*
+
+### Day 7
+#### BACKJOON 10807번, 1264번
+
+**요약**
+- getline() 함
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/20*
