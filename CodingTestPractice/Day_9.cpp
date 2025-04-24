@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 
 using namespace std;
 
@@ -7,21 +8,50 @@ using namespace std;
 // BAEKJOON 11720번 : 숫자의 합
 int main()
 {
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr);
+
 	int n;
-	string arr;
+	string numbers;
 
 	cin >> n;
 
-	cin >> arr;
+	cin >> numbers;
 
 	int sum = 0;
 
 	for (int i = 0; i < n; ++i)
 	{
-		sum += arr[i] - '0';
+		sum += numbers[i] - '0';
 	}
 
 	cout << sum;
+
+	return 0;
+}
+*/
+
+/*
+// BAKEJOON 11365번 : !밀비 급일 - 수정
+int main()
+{
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr);
+
+	string str;
+
+	while (1)
+	{
+		getline(cin, str);
+
+		if (str == "END")
+		{
+			break;
+		}
+
+		reverse(str.begin(), str.end());
+		cout << str << endl;
+	}
 
 	return 0;
 }
@@ -57,6 +87,52 @@ int main()
 			str = "";
 			cout << "\n";
 		}
+	}
+
+	return 0;
+}
+*/
+
+/*
+// BAKEJOON 10808번 : 알파벳 개수 - 수정(count 함수)
+int main()
+{
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr);
+
+	string S;
+	cin >> S;
+
+	for (int i = 'a'; i <= 'z'; i++)
+	{
+		cout << count(S.begin(), S.end(), i) << ' ';
+	}
+
+	return 0;
+}
+*/
+
+/*
+// BAKEJOON 10808번 : 알파벳 개수 - 수정(ASCII 값의 차이)
+int main()
+{
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr);
+
+	string S;
+	cin >> S;
+
+	int k[26] = { 0, };
+
+	// for (auto it : S)를 통해 범위 기반 for 루프 구문을 활용할 수 있습니다.
+	for (int i = 0; i < S.length(); i++)
+	{
+		k[S[i] - 'a'] += 1;
+	}
+
+	for (int i = 0; i < 26; i++)
+	{
+		cout << k[i] << ' ';
 	}
 
 	return 0;
