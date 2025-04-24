@@ -62,6 +62,25 @@
 #### BACKJOON 10807번, 1264번
 
 **요약**
-- getline() 함
+- getline() 함수
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/20*
+
+### Day 8
+#### BACKJOON 2439번, 2440번, 2845번
+
+**요약**
+- for문
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/22*
+
+### Day 9
+#### BACKJOON 3046번, 5554번, 6749번, 10808번, 11365번, 11720번
+
+**요약**
+- geline과 cin
+- ASCII 값의 차이
+- count 함수
+- reverse 함수
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/24*
