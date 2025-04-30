@@ -94,3 +94,12 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/27*
 
+### Day 11
+#### BACKJOON 2525번, 2588번, 2857번, 2914번
+**요약**
+- ceil
+- floor
+- 부등
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/28*
+
