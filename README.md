@@ -84,3 +84,13 @@
 - reverse 함수
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/24*
+
+### Day 10
+#### BACKJOON 11945번, 15439번, 15552번, 2442번, 2443번, 2444번, 2445번, 2446번
+
+**요약**
+- 빠른 입출력
+- 별 찍기 4번 ~ 9번
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/27*
+
