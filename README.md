@@ -103,3 +103,12 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/28*
 
+>  > ### Day 12
+#### BACKJOON 2935번 : 소음
+**요약**
+- size() 메서드
+- append() 메서드
+- replace() 메서드
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/31*
+
