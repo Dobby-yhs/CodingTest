@@ -3,6 +3,7 @@
 
 using namespace std;
 
+/*
 // BAKEJOON 2935¹ø : ¼ÒÀ½
 #include <string>
 
@@ -85,3 +86,4 @@ int main()
 
 	return 0;
 }
+*/
