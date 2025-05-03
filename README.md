@@ -103,7 +103,7 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/28*
 
->  > ### Day 12
+### Day 12
 #### BACKJOON 2935번
 **요약**
 - size() 메서드
