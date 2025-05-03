@@ -104,11 +104,20 @@
 >  > *https://sunlight-dby.tistory.com/28*
 
 >  > ### Day 12
-#### BACKJOON 2935번 : 소음
+#### BACKJOON 2935번
 **요약**
 - size() 메서드
 - append() 메서드
 - replace() 메서드
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/31*
+
+### Day 13
+#### BACKJOON 2953번, 3009번, 3053번
+**요약**
+- C++에서 π(파이) 사용
+- POSIX와 POSIX 확장
+- 택시 기하학
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/33*
 
