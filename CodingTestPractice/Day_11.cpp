@@ -1,8 +1,8 @@
-#include <iostream>
-#include <algorithm>
-#include <string>
-
-using namespace std;
+//#include <iostream>
+//#include <algorithm>
+//#include <string>
+//
+//using namespace std;
 
 /*
 // BAKEJOON 2914번 : 저작권

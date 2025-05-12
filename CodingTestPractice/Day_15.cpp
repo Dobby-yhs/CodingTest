@@ -1,8 +1,8 @@
-#include <iostream>
-#include <algorithm>
-#include <vector>
-
-using namespace std;
+//#include <iostream>
+//#include <algorithm>
+//#include <vector>
+//
+//using namespace std;
 
 /*
 // BAEKJOON 5597번 : 과제 안 내신 분..? - 불리언형 배열 사용

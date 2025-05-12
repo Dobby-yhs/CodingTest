@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+//#include <iostream>
+//#include <string>
 
 /*
 // BAEKJOON 1264번 : 모음의 개수

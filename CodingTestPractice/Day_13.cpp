@@ -1,4 +1,4 @@
-#define _USE_MATH_DEFINES // M_PI와 같은 수학 상수 사용을 위해 정의
+// #define _USE_MATH_DEFINES // M_PI와 같은 수학 상수 사용을 위해 정의
 
 #include <iostream>
 #include <cmath>    // M_PI 상수 사용을 위해 포함

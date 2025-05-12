@@ -1,6 +1,6 @@
-#include <iostream>
-#include <cmath> // BAEKJOON 9498번 : 시험 성적
-using namespace std;
+//#include <iostream>
+//#include <cmath> // BAEKJOON 9498번 : 시험 성적
+//using namespace std;
 
 /*
 // BAEKJOON 9498번 : 시험 성적

@@ -1,8 +1,8 @@
-#include <iostream>
-#include <string>
-#include <algorithm>
-
-using namespace std;
+//#include <iostream>
+//#include <string>
+//#include <algorithm>
+//
+//using namespace std;
 
 /*
 // BAEKJOON 11720번 : 숫자의 합

@@ -1,7 +1,7 @@
-#include <iostream>
-#include <algorithm>
-
-using namespace std;
+//#include <iostream>
+//#include <algorithm>
+//
+//using namespace std;
 
 /*
 // BAEKJOON 3052번 : 나머지 - bool형 배열 사용

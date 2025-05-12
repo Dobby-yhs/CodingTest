@@ -1,6 +1,6 @@
-#include <iostream>
-
-using namespace std;
+//#include <iostream>
+//
+//using namespace std;
 
 /*
 // BAEKJOON 4153번 : 직각삼각형

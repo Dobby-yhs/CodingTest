@@ -1,7 +1,7 @@
-#include <iostream>
-#include <algorithm>
-
-using namespace std;
+//#include <iostream>
+//#include <algorithm>
+//
+//using namespace std;
 
 /*
 // BAKEJOON 2935¹ø : ¼ÒÀ½

@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
  /*
  // BEAKJOON 2741번 : N 찍기 - printf, scanf 사용 // 8ms

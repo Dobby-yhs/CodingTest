@@ -1,7 +1,7 @@
-#include <iostream>
-#include <algorithm>
-
-using namespace std;
+//#include <iostream>
+//#include <algorithm>
+//
+//using namespace std;
 
 /*
 // BAEKJOON 2446¹ø : º° Âï±â - 9
