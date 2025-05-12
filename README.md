@@ -143,3 +143,13 @@
 - 쌓인 경험의 활용
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/39*
+
+### Day 17
+#### BACKJOON 1152번, 2675번, 10809번, 2577번
+**요약**
+- 공백으로 구분되는 문자열
+- stringstream
+- std::fill
+- 벡터의 초기화
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/42*
