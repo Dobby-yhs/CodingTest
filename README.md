@@ -136,3 +136,10 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/37*
 
+### Day 16
+#### BACKJOON 3052번
+**요약**
+- 정렬된 배열 중복되지 않는 값의 개수를 세는 방법
+- 쌓인 경험의 활용
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/39*
