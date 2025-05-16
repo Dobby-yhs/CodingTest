@@ -161,7 +161,7 @@
 - reverse 함수
 - 예제 입력 과신
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/44*\
+>  > *https://sunlight-dby.tistory.com/44*
 
 ### Day 19
 #### BACKJOON 2292번, 5622번
