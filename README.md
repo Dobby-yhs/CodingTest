@@ -162,3 +162,10 @@
 - 예제 입력 과신
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/44*
+
+### Day 19
+#### BACKJOON 2292번, 5622번
+**요약**
+- 기준에 대한 고민
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/46*
