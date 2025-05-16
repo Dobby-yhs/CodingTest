@@ -153,3 +153,12 @@
 - 벡터의 초기화
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/42*
+
+### Day 18
+#### BACKJOON 8958, 2908번, 1978번, 2750번, 2798번
+**요약**
+- stoi 함수
+- reverse 함수
+- 예제 입력 과신
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/44*
