@@ -3,7 +3,7 @@
 //using namespace std;
 
 /*
-// BAEKJOON 2292번 : 벌집
+// BAEKJOON 5622번 : 다이얼
 int main()
 {
 	ios_base::sync_with_stdio(false);
