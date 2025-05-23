@@ -169,3 +169,11 @@
 - 기준에 대한 고민
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/46*
+
+### Day 20
+#### BACKJOON 2231번, 10870번, 15596번, 2920
+**요약**
+- 효율적인 것에 매달리다 전체 흐름 놓치지 말기
+- 많은 문제량에 따른 넓은 시야 필요
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/52*
