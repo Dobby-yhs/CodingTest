@@ -185,3 +185,11 @@
 - 함수가 어떤 원리로 동작하는지 알기
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/54*
+
+### Day 22
+#### BACKJOON 2745번, 25305번
+**요약**
+- std::sort
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/56*
+
