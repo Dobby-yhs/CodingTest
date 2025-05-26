@@ -177,3 +177,11 @@
 - 많은 문제량에 따른 넓은 시야 필요
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/52*
+
+### Day 21
+#### BACKJOON 2581번, 1712번, 10813번, 10811번, 2587
+**요약**
+- 공식에 매몰되지 말고, 공식을 활용하여 전체적인 흐름 파악하기
+- 함수가 어떤 원리로 동작하는지 알기
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/54*
