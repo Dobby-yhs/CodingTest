@@ -193,3 +193,11 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/56*
 
+### Day 23
+#### BACKJOON 1546번, 1157번, 1110번, 4344번, 2869번번
+**요약**
+- ceil 함수
+- 올림을 정수 나눗셈으로 처리하는 공식
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/58*
+
