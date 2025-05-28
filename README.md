@@ -157,7 +157,52 @@
 ### Day 18
 #### BACKJOON 8958, 2908번, 1978번, 2750번, 2798번
 **요약**
-- stoi 함번
+- stoi 함수
+- reverse 함수
+- 예제 입력 과신
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/44*
+
+### Day 19
+#### BACKJOON 2292번, 5622번
+**요약**
+- 기준에 대한 고민
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/46*
+
+### Day 20
+#### BACKJOON 2231번, 10870번, 15596번, 2920번
+**요약**
+- 효율적인 것에 매달리다 전체 흐름 놓치지 말기
+- 많은 문제량에 따른 넓은 시야 필요
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/52*
+
+### Day 21
+#### BACKJOON 2581번, 1712번, 10813번, 10811번, 2587
+**요약**
+- 공식에 매몰되지 말고, 공식을 활용하여 전체적인 흐름 파악하기
+- 함수가 어떤 원리로 동작하는지 알기
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/54*
+
+### Day 22
+#### BACKJOON 2745번, 25305번
+**요약**
+- std::sort
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/56*
+
+### Day 23
+#### BACKJOON 1546번, 1157번, 1110번, 4344번, 2869번
+**요약**
+- ceil 함수
+- 올림을 정수 나눗셈으로 처리하는 공식
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/58*
+
+### Day 24
+#### BACKJOON 2609번
 **요약**
 - 유클리드 호제법
 - 유클리드 호제법으로 구하는 최대공약수
