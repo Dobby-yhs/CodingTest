@@ -216,5 +216,11 @@
 - 소인수분해의 성
 - 수학적 원리
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/63*
+>  > *https://sunlight-dby.tistory.com/63*  
 
+### Day 26
+#### BACKJOON 2775번, 2309번
+**요약**
+- 무한 루프 while문에 대한 고찰
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/64*  
