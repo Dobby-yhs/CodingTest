@@ -223,4 +223,12 @@
 **요약**
 - 무한 루프 while문에 대한 고찰
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/64*  
+>  > *https://sunlight-dby.tistory.com/64*
+
+### Day 27
+#### BACKJOON 11050번, 10798번
+**요약**
+- 재귀함수
+- 문제의 본질에 대한 접근
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/66*  
