@@ -206,7 +206,7 @@
 **요약**
 - 유클리드 호제법
 - 유클리드 호제법으로 구하는 최대공약수
-- 최소공배
+- 최소공배수
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/60*
 
