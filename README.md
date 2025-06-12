@@ -232,3 +232,13 @@
 - 문제의 본질에 대한 접근
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/66*  
+
+### Day 28
+#### BACKJOON 1934번, 1259번, 2748번, 10989번
+**요약**
+- 입력된 값 범위의 중요성
+- 시간 초과와 메모리 초과
+- sort 함수의 시간 복잡도와 특징
+- 계수 정렬 (Counting Sort)
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/68*  
