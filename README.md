@@ -206,14 +206,14 @@
 **요약**
 - 유클리드 호제법
 - 유클리드 호제법으로 구하는 최대공약수
-- 최소공배
+- 최소공배수
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/60*
 
 ### Day 25
 #### BACKJOON 11653번, Programmers Lv.1 택배 상자 꺼내기
 **요약**
-- 소인수분해의 성
+- 소인수분해의 성질
 - 수학적 원리
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/63*  
@@ -223,4 +223,12 @@
 **요약**
 - 무한 루프 while문에 대한 고찰
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/64*  
+>  > *https://sunlight-dby.tistory.com/64*
+
+### Day 27
+#### BACKJOON 11050번, 10798번
+**요약**
+- 재귀함수
+- 문제의 본질에 대한 접근
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/66*  
