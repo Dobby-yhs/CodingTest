@@ -213,7 +213,7 @@
 ### Day 25
 #### BACKJOON 11653번, Programmers Lv.1 택배 상자 꺼내기
 **요약**
-- 소인수분해의 성
+- 소인수분해의 성질
 - 수학적 원리
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/63*  
