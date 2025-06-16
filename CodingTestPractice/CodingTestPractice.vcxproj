@@ -42,6 +42,7 @@
     <ClCompile Include="Day_28.cpp" />
     <ClCompile Include="Day_29.cpp" />
     <ClCompile Include="Day_3.cpp" />
+    <ClCompile Include="Day_30.cpp" />
     <ClCompile Include="Day_4.cpp" />
     <ClCompile Include="Day_5.cpp" />
     <ClCompile Include="Day_6.cpp" />
