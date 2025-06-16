@@ -126,7 +126,7 @@ int main()
 */
 
 /*
-// BAKEJOON 9506번 : 약수들의 합
+// BAKEJOON 1032번 : 명령 프롬프트
 int main()
 {
 	ios_base::sync_with_stdio(false);
@@ -171,7 +171,7 @@ int main()
 */
 
 /*
-// BAKEJOON 9506번 : 약수들의 합 - 구조적, 효율적으로 부족
+// BAKEJOON 1032번 : 명령 프롬프트 - 구조적, 효율적으로 부족
 int main()
 {
 	ios_base::sync_with_stdio(false);
