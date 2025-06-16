@@ -242,3 +242,10 @@
 - 계수 정렬 (Counting Sort)
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/68*  
+
+### Day 29
+#### BACKJOON 1037번, 1924번, 2163번, 11005번
+**요약**
+- 나머지와 몫을 이용한 진법 변환
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/71*  
