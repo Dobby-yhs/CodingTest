@@ -248,4 +248,14 @@
 **요약**
 - 나머지와 몫을 이용한 진법 변환
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/71*  
+>  > *https://sunlight-dby.tistory.com/71*
+
+### Day 30
+#### BACKJOON 9506번, 1032번, 1292번, 9093번
+**요약**
+- 구조적이고 효율적인 문제 풀이의 중요성
+- cin.ignore()
+- stringstream
+- while (ss >> word)
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/74*    
