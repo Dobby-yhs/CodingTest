@@ -258,4 +258,12 @@
 - stringstream
 - while (ss >> word)
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/74*    
+>  > *https://sunlight-dby.tistory.com/74*
+
+### Day 31
+#### BACKJOON 1316번, 2751번
+**요약**
+- bool 배열을 활용하여 등장한 글자 체크
+- 집요하게 문제 풀기
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/80*    
