@@ -266,4 +266,16 @@
 - bool 배열을 활용하여 등장한 글자 체크
 - 집요하게 문제 풀기
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/80*    
+>  > *https://sunlight-dby.tistory.com/80*
+
+### Day 32
+#### BACKJOON 2941번
+**요약**
+- 문자의 결합
+  - string 생성자 이용
+  - push_back() 함수 이용
+  - char + char은 아스키코드로 계산됨
+- find() 함수
+- replace() 함수
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/83*    
