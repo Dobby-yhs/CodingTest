@@ -285,4 +285,14 @@
 **요약**
 - 사용자 정의 정렬 : sort 함수
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/85*   
+>  > *https://sunlight-dby.tistory.com/85*
+
+### Day 34
+#### BACKJOON 11650번, 1193번
+**요약**
+- pair 클래스
+- struct 사용
+- auto 사용
+- 효율적인 구현을 위해 평소보다 한 발자국 더 나아가 생각하기
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/86*   
