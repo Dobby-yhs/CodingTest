@@ -295,4 +295,12 @@
 - auto 사용
 - 효율적인 구현을 위해 평소보다 한 발자국 더 나아가 생각하기
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/86*   
+>  > *https://sunlight-dby.tistory.com/86*
+
+### Day 34
+#### BACKJOON 1427번, 10814번
+**요약**
+- stable_sort
+- 생각의 틀에 갇히지 않기
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/87*   
