@@ -297,7 +297,7 @@
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/86*
 
-### Day 34
+### Day 35
 #### BACKJOON 1427번, 10814번
 **요약**
 - stable_sort
