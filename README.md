@@ -303,4 +303,12 @@
 - stable_sort
 - 생각의 틀에 갇히지 않기
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/87*   
+>  > *https://sunlight-dby.tistory.com/87*
+
+### Day 36
+#### BACKJOON 1436번, 7568번
+**요약**
+- 많은 문제를 풀어보기
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/88*   
+
