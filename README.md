@@ -318,3 +318,10 @@
 - 더욱 증진..
 > My Blog Link
 >  > *https://sunlight-dby.tistory.com/89*   
+
+### Day 38
+#### BACKJOON 2563번
+**요약**
+- 올바른 방향성 
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/90*   
