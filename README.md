@@ -324,4 +324,12 @@
 **요약**
 - 올바른 방향성 
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/90*   
+>  > *https://sunlight-dby.tistory.com/90*
+
+### Day 39
+#### BACKJOON 2839번
+**요약**
+- 넓은 시야
+- 같은 실수의 반복 방지
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/92*   
