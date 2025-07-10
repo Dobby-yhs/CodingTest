@@ -332,4 +332,12 @@
 - 넓은 시야
 - 같은 실수의 반복 방지
 > My Blog Link
->  > *https://sunlight-dby.tistory.com/92*   
+>  > *https://sunlight-dby.tistory.com/92*
+
+### Day 40
+#### BACKJOON 9012번
+**요약**
+- 자료구조 : 스택
+- 컨테이너 클래스 템플릿
+> My Blog Link
+>  > *https://sunlight-dby.tistory.com/94*   
